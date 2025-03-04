@@ -1,0 +1,33 @@
+{
+  "name": "apitienda",
+  "version": "1.0.0",
+  "description": "Aprendiendo a hacer una API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghosrider227/API-tienda013.git"
+  },
+  "keywords": [
+    "SENA",
+    "NODEJS",
+    "ADSO",
+    "EXPRESS"
+  ],
+  "author": "Aprendiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ghosrider227/API-tienda013/issues"
+  },
+  "homepage": "https://github.com/Ghosrider227/API-tienda013#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
